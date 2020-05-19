@@ -6,9 +6,9 @@ The commands and language are defined in a config file that need to be set in th
 `export VOCAL_COMMAND_CONFIG=[PATH_TO_CONFIG_FILE]`
 
 The format of the config file must be:
-`lang=[LANG]
+`lang=[LANG]`
 
-"[COMMAND TO CALL]" : "[SHELL COMMAND TO EXECUTE]" : "[RESPONSE FROM THE ASSISTANT !OPTIONAL]"`
+`"[COMMAND TO CALL]" : "[SHELL COMMAND TO EXECUTE]" : "[RESPONSE FROM THE ASSISTANT !OPTIONAL]"`
 
 exemple:
 
