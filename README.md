@@ -12,11 +12,11 @@ The format of the config file must be:
 
 exemple:
 
-`lang="en-US
+`lang="en-US`
 
-"open youtube" : "google-chrome www.youtube.com" : "YES SIR !"
-"open facebook" : "google-chrome www.facebook.com" : "openning facebook right now"
-"open desktop" : "xdg-open Desktop"
+`"open youtube" : "google-chrome www.youtube.com" : "YES SIR !"`
+`"open facebook" : "google-chrome www.facebook.com" : "openning facebook right now"`
+`"open desktop" : "xdg-open Desktop"`
 
 Here is the list of the accepted languages: https://cloud.google.com/speech-to-text/docs/languages?hl=fr
 
