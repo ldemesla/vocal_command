@@ -14,8 +14,8 @@ exemple:
 
 `lang="en-US`
 
-`"open youtube" : "google-chrome www.youtube.com" : "YES SIR !"`
-`"open facebook" : "google-chrome www.facebook.com" : "openning facebook right now"`
+`"open youtube" : "google-chrome www.youtube.com" : "YES SIR !"`<br/>
+`"open facebook" : "google-chrome www.facebook.com" : "openning facebook right now"`<br/>
 `"open desktop" : "xdg-open Desktop"`
 
 Here is the list of the accepted languages: https://cloud.google.com/speech-to-text/docs/languages?hl=fr
